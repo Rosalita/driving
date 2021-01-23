@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Resources/Clutch or Brake First.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resources/Clutch or Brake First.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Driving.md",
-    "Braking.md",
-    "README.md",
-    "Driving.md.md",
-    "Breaking.md",
-    "Resources/Progressive Braking.md",
     "Resources/Clutch or Brake First.md",
-    "Clutch or Brake First.md",
-    "Untitled.md",
-    "Resources/Untitled.md"
+    "Resources/Awareness and Anticipation.md",
+    "Resources/Progressive Braking.md",
+    "Resources/Knowing when to go at Roundabouts.md",
+    "Resources/Driving Basics.md",
+    "Notes/Driving After a Break.md",
+    "Resources/Untitled.md",
+    "Notes/Untitled.md",
+    "Notes/Braking.md",
+    "Notes/Driving.md"
   ]
 }
